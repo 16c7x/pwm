@@ -1,5 +1,5 @@
 # pwm
-Experimenting with pulse width modulation using a BBC Microbit
+Experimenting with pulse width modulation using a BBC Microbit...... and a home made oscilascope.
 
 ![alt text](https://raw.githubusercontent.com/16c7x/pwm/master/microbit.png)
 
